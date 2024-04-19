@@ -1,2 +1,2 @@
 # bookStoreApp
-Final Project
+Final Project based on MERN stack 
